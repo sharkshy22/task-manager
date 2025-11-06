@@ -21,10 +21,4 @@ This project is perfect for **beginners** who want to learn how to use **lists, 
 ## 🧩 Technologies Used
 
 - **Language:** Python  
-- **Libraries:** None (only built-in Python functions)
-
----
-
-## 🧱 Project Structure
-
-
+- **Libraries:** None (only built-in Python function.
